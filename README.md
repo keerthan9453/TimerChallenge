@@ -1,4 +1,4 @@
-#The Almost Final Countdown
+# The Almost Final Countdown
 
 This is a React-based project that implements a timer challenge game. Players can start, stop, and reset timers for different difficulty levels, and their performance is displayed in a modal dialog.
 
